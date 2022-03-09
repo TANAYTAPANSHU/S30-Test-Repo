@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/native-collegebeats.appspot.com/o/Untitled%20design%20(11).png?alt=media&token=1b54735f-5200-444d-8366-1cd1514d89ef');
+    background-repeat: no-repeat;
+    min-height: 100vH;
+    padding: 10px;
+}
+
+.refreshButton:hover {
+    color: aqua;
+}
